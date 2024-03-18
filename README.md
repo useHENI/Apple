@@ -1,8 +1,8 @@
 Server {
-  "app",
-  "endex",
-  "package",
-  "package-lock" ,
+  "app.js",
+  "endex.html",
+  "package.json",
+  "package-lock.json" ,
   }
   
   server is back end folder !
@@ -11,4 +11,4 @@ Server {
   npm install,
 
 
-  node 
+  
